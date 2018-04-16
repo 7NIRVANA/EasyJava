@@ -1,6 +1,6 @@
 ## 注意
 
-本仓库已迁移至[easy-job](https://github.com/it-interview/easy-job)
+本仓库已迁移至[EasyJob](https://github.com/it-interview/EasyJob)
 
 ## 相关
 
